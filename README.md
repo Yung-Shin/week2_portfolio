@@ -9,7 +9,7 @@ It allows employers to learn about necessary information regarding a potential e
 Potential employers or any other curious individuals can browse through my professional portfolio and observe projects I have completed previously. 
 
 ## Technologies Used
-HTML
+HTML,
 CSS
   
 ## License
@@ -35,13 +35,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Screenshots
+## Sscreenshot
+<img width="1263" alt="Week 2 one" src="https://github.com/Yung-Shin/week2_portfolio/assets/123918265/0b35fb07-3c91-4a76-80a2-2acc710de7bc">
 
-
-# Github URL:
+## Github URL:
 https://github.com/Yung-Shin/week2_portfolio
 
-# Deployed Live URL: 
+## Deployed Live URL: 
 https://yung-shin.github.io/week2_portfolio/
 
 
